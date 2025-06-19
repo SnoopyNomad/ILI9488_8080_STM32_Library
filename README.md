@@ -1,4 +1,4 @@
-# ILI9488 8080 STM32 Library
+# ILI9488 STM32 Library
 
 A lightweight, versatile STM32 library for driving the ILI9488 TFT LCD controller via the 8080 parallel interface. This library supports software bit-banged GPIO mode for embedded GUIs and graphics applications.
 
